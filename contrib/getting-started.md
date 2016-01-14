@@ -18,7 +18,7 @@ You may be required to create an account to participate in certain
 areas of our community. <BR>
 The GitHub page ( [https://help.github.com/index.html](https://help.github.com/index.html) ) provides step-by-step instructions for user registration and basic features supported by GitHub. 
 
-<BR>
+
 <BR>
 *Join Us Today!*
 <BR>
