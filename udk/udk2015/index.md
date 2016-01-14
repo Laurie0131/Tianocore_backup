@@ -108,7 +108,7 @@ If you have questions please email the [edk2-devel] email list.
 
   <tr>
     <td>
-    https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip
+   BRANCH
       <p><a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">Download All CHM/HTMLs</a></p>
       
     </td>
