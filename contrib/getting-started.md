@@ -15,10 +15,11 @@ If you are interested in being involved with our community, we suggest:
 * Join the [Mailing Lists]({{wiki}}/Mailing Lists) for one or more of our projects
 
 You may be required to create an account to participate in certain
-areas of our community. 
+areas of our community. <BR>
 The GitHub page ( [https://help.github.com/index.html](https://help.github.com/index.html) ) provides step-by-step instructions for user registration and basic features supported by GitHub. 
 
-
+<BR>
+<BR>
 *Join Us Today!*
 
 ## FYI for Add-in Hardware Developers
