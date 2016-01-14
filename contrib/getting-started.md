@@ -18,13 +18,13 @@ You may be required to create an account to participate in certain
 areas of our community. <BR>
 The GitHub page ( [https://help.github.com/index.html](https://help.github.com/index.html) ) provides step-by-step instructions for user registration and basic features supported by GitHub. 
 
-
-<BR>
-*Join Us Today!*
-<BR>
 <BR>
 <MTMarkdownOptions output='html4'>
-<b><font size="3" color="#070707">FYI for Add-in Hardware 
+<font color="#0066FF" size="3"><i>Join Us Today!</i></font>
+<br>
+<Br>
+
+<b><font size="3" >FYI for Add-in Hardware 
 	Developers</font></b>
 </MTMarkdownOptions>
 * See [UEFI Driver Developer Resources with EDK
