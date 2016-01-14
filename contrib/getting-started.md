@@ -20,8 +20,7 @@ The GitHub page ( [https://help.github.com/index.html](https://help.github.com/i
 
 <BR>
 <MTMarkdownOptions output='html4'>
-<font color="#0066FF" size="5"><i>Join Us Today!</i></font>
-<br>
+<font color="#0066FF" size="4"><i>Join Us Today!</i></font>
 <br>
 <br>
 <Br>
