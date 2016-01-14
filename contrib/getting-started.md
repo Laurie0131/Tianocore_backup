@@ -23,9 +23,10 @@ The GitHub page ( [https://help.github.com/index.html](https://help.github.com/i
 *Join Us Today!*
 <BR>
 <BR>
-
-### FYI for Add-in Hardware Developers
-
+<MTMarkdownOptions output='html4'>
+<b><font size="2" color="#0000FF">FYI for Add-in Hardware 
+	Developers</font></b>
+</MTMarkdownOptions>
 * See [UEFI Driver Developer Resources with EDK
   II]({{wiki}}/Driver_Developer) Support UEFI driver development by
   independent hardware vendors (IHV), including the UEFI Driver Wizard
