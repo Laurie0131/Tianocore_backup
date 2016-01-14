@@ -23,6 +23,7 @@ The GitHub page ( [https://help.github.com/index.html](https://help.github.com/i
 *Join Us Today!*
 <BR>
 <BR>
+
 ## FYI for Add-in Hardware Developers
 
 * See [UEFI Driver Developer Resources with EDK
