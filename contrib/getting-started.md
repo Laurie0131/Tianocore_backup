@@ -24,7 +24,7 @@ The GitHub page ( [https://help.github.com/index.html](https://help.github.com/i
 <BR>
 <BR>
 <MTMarkdownOptions output='html4'>
-<b><font size="2" color="#0000FF">FYI for Add-in Hardware 
+<b><font size="3" color="#070707">FYI for Add-in Hardware 
 	Developers</font></b>
 </MTMarkdownOptions>
 * See [UEFI Driver Developer Resources with EDK
