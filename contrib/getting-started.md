@@ -20,10 +20,10 @@ The GitHub page ( [https://help.github.com/index.html](https://help.github.com/i
 
 <BR>
 <BR>
-*<h2>Join Us Today!</h2>*
+*Join Us Today!*
 <BR>
 <BR>
-### FYI for Add-in Hardware Developers
+## FYI for Add-in Hardware Developers
 
 * See [UEFI Driver Developer Resources with EDK
   II]({{wiki}}/Driver_Developer) Support UEFI driver development by
