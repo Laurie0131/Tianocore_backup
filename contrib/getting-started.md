@@ -24,10 +24,7 @@ The GitHub page ( [https://help.github.com/index.html](https://help.github.com/i
 <br>
 <br>
 <Br>
-<Br>
-<BR>
-<b><font size="3" >FYI for Add-in Hardware 
-	Developers</font></b>
+<b><font size="3" >FYI for Add-in Hardware Developers</font></b>
 </MTMarkdownOptions>
 
 
