@@ -47,7 +47,7 @@ If you have questions please email the [edk2-devel] email list.
       <p><b>How to Build</b><br/>
       <a href="{{wiki}}/UDK2014_How-to-Build" title="UDK2014_How-to-Build">How to Build</a> UDK2014 Release<br/></p>
       <p><b>Features Summary:</b><br/>
-      See <a class="externallink" href="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015-Features.txt/download" rel="nofollow" title="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015-Features.txt/download">Release Notes Features</a><br/></p>
+      See <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-features.txt" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-features.txt">Release Notes Features</a><br/></p>
       <p><b>Supported OS and Build Environments</b></p>
 
       <ul>
@@ -58,13 +58,15 @@ If you have questions please email the [edk2-devel] email list.
     </td>
     <td>
       <p>(UDK2015)<br/></p>
-      <p><a class="externallink" href="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015-FilesList.txt/download" rel="nofollow" title="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015-FilesList.txt/download">File List</a>
+      
+      <p><a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-Fileslist.txt" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-Fileslist.txt">File List</a>
       Of Entire Release .zip </p><hr/>
       <p>Notes UDK2015 <br/>
       Feature details : <br/>
-      <a class="externallink" href="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015.Notes.zip/download" rel="nofollow" title="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015.Notes.zip/download">Download All</a></p><hr/>
+      <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Notes.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Notes.zip">Download All</a></p><hr/>
       <p>Documents<br/>
-      <a class="externallink" href="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015.Documents.zip/download" rel="nofollow" title="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015.Documents.zip/download">Download All</a><br/></p>
+      
+      <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">Download All</a><br/></p>
       
     </td>
   </tr>
@@ -106,7 +108,8 @@ If you have questions please email the [edk2-devel] email list.
 
   <tr>
     <td>
-      <p><a class="externallink" href="https://sourceforge.net/projects/edk2/files/UDK2015_Releases/UDK2015/UDK2015.Documents.zip/download" rel="nofollow" title="https://sourceforge.net/projects/edk2/files/UDK2015_Releases/UDK2015/UDK2015.Documents.zip/download">Download All CHM/HTMLs</a></p>
+    https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip
+      <p><a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">Download All CHM/HTMLs</a></p>
       
     </td>
     <td>
