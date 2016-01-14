@@ -10,15 +10,13 @@ the Intel&reg; Platform Innovation Framework for UEFI (AKA Tiano).
 If you are interested in being involved with our community, we suggest:
 
 * Downloading and using our open source code
-  * Check out the  [Github Quick Start]({{wiki}}/SourceForge-to-Github-Quick-Start) for EDK II Projects
   * Look over our [Projects]({{wiki}}/Additional-Projects) section 
-  * For [EDK II], checkout the [Getting Started with EDK
-    II]({{wiki}}/Getting%20Started%20with%20EDK%20II) page
+  * For [EDK II] projects, checkout the  [Github Quick Start]({{wiki}}/SourceForge-to-Github-Quick-Start)
 * Join the [Mailing Lists]({{wiki}}/Mailing Lists) for one or more of our projects
 
 You may be required to create an account to participate in certain
-areas of our community. The [Tianocore User
-Help]({{wiki}}/Tianocore%20User%20Help) page be helpful in this case.
+areas of our community. 
+GitHub (https://help.github.com/index.html) provides step-by-step instructions for user registration and basic features supported by GitHub. 
 
 *Join Us Today!*
 
