@@ -17,7 +17,11 @@ If you have questions please email the [edk2-devel] email list.
 
 <table width="100%" class="t_projects">
   <tr>
-    <th colspan="3" style="background-color:#a9c6dd"> <b>UDK2015 Releases</b> </th>
+    <th colspan="3" style="background-color:#a9c6dd"> 
+     <MTMarkdownOptions output='html4'>
+      <font color="#0066FF"> <b>UDK2015 Releases</b> </font>
+      </MTMarkdownOptions>
+     </th>
   </tr>
 
   <tr>
