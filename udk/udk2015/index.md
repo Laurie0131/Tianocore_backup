@@ -74,11 +74,7 @@ If you have questions please email the [edk2-devel] email list.
   <tr>
     <th width="220">
       <MTMarkdownOptions output='html4'>
-      <font color="#0066FF">
-      <b>
-      EDK II Specifications
-  
-      </b></font>
+      <font color="#0066FF">EDK II Specifications</font>
       </MTMarkdownOptions>
     </th>
     <th width="220">What is it?</th>
