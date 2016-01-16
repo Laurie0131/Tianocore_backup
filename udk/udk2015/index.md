@@ -20,7 +20,7 @@ If you have questions please email the [edk2-devel] email list.
   <MTMarkdownOptions output='html4'>
     <th colspan="3" style="background-color:#a9c6dd"> 
      
-      <font color="#0066FF" size="2" > UDK2015 Releases </font>
+      <font color="#0066FF" size="3" > UDK2015 Releases </font>
      
      </th>
        </MTMarkdownOptions>
@@ -105,8 +105,10 @@ If you have questions please email the [edk2-devel] email list.
 
   <tr>
     <th width="220">
+    <MTMarkdownOptions output='html4'>
+      <font color="#0066FF">Documents</font>
+      </MTMarkdownOptions>
       
-      <h2> Documents</h2>
     </th>
     <th width="220"> What is it? </th>
     <th width="220"> What’s in the Download? </th>
@@ -223,8 +225,10 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <th colspan="3">
-      <h2>Previous UDK Releases</h2>
-    </th>
+      <MTMarkdownOptions output='html4'>
+      <font color="#0066FF"> Previous UDK Releases</font>
+      </MTMarkdownOptions>
+     </th>
   </tr>
 
   <tr>
@@ -248,8 +252,10 @@ which follows Intel EFI Framework Specification.</p>
   </tr>
 <tr>
     <th colspan="3">
-      <h2><span class="mw-headline" id="Other Releated UDK Releases">Other Releated UDK Releases</span></h2>
-    </th>
+        <MTMarkdownOptions output='html4'>
+      <font color="#0066FF"> Other Releated UDK Releases</font>
+      </MTMarkdownOptions>
+     </th>
   </tr>
    <tr>
     <th> Download </th>
@@ -432,8 +438,13 @@ blank
   
 </table>
 
+<MTMarkdownOptions output='html4'>
+<font color="#0066FF" size="5">
+More Info
+</font>
+</MTMarkdownOptions>
 
-<h2><b>More Info</b></h2>
+
 EDK II More info: 
 <a href="{{wiki}}/Getting_Started_with_EDK_II" title="Getting Started with EDK II">Getting Started for Developers</a>,
 <a href="{{wiki}}/EDK_II_Overview" title="EDK II Overview">EDK II Overview</a>, <a href="{{wiki}}/EDKII_Packages" title="EDKII Packages">EDKII Packages</a>
