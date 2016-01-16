@@ -20,7 +20,7 @@ If you have questions please email the [edk2-devel] email list.
   <MTMarkdownOptions output='html4'>
     <th colspan="3" style="background-color:#a9c6dd"> 
      
-      <font color="#0066FF" size="3" > UDK2015 Releases </font>
+      <font color="#0066FF" size="4" > UDK2015 Releases </font>
      
      </th>
        </MTMarkdownOptions>
@@ -437,7 +437,8 @@ blank
 
   
 </table>
-
+<Br>
+<BR>
 <MTMarkdownOptions output='html4'>
 <font color="#0066FF" size="5">
 More Info
