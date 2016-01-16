@@ -36,7 +36,7 @@ If you have questions please email the [edk2-devel] email list.
     <td>
       w/ WorkSpace Expanded .zip<br/>
       Release <b>Sept 29, 2015</b><br/>
-      <a href="{{edk2files}}/UDK2015_Releases/UDK2015/UDK2015-ReleaseNotes-MyWorkSpace.txt/download">Release Notes</a> <br/>
+      <a href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-ReleaseNotes-MyWorkSpace.txt">Release Notes</a> <br/>
       
     </td>
     <td>
@@ -256,7 +256,7 @@ which follows Intel EFI Framework Specification.</p>
 
 <td>
 <P style="margin-top: 0; margin-bottom: 0">
-<a href="{{wiki}}/Driver_Developer" title="Go to Driver Dev Page">Go to Driver Dev Page</a>
+<a href="{{wiki}}/Driver-Developer" title="Go to Driver Dev Page">Go to Driver Dev Page</a>
 </p>
 
 
@@ -265,7 +265,7 @@ which follows Intel EFI Framework Specification.</p>
 <P style="margin-top: 0; margin-bottom: 0">
 UEFI Driver Writer's Wizard and the 
 UEFI Driver Writer's Guide supports UEFI 3.2.1 version of the Specification. See the 
-<a href="{{wiki}}/Driver_Developer" title="Driver_Developer">Driver Developer</a> page for more resources for UEFI Driver Writers Resources
+<a href="{{wiki}}/Driver-Developer" title="Driver Developer">Driver Developer</a> page for more resources for UEFI Driver Writers Resources
 </p>
 
 
