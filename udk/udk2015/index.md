@@ -131,7 +131,7 @@ If you have questions please email the [edk2-devel] email list.
 
   <tr>
     <td>
-      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.chm" rel="nofollow" title="{{https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.chm">CryptoPkg .chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.chm">CryptoPkg .chm </a></p>
       <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.zip">CryptoPkg .zip</a></p>
     </td>
     <td>
