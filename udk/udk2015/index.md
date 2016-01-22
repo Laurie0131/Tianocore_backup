@@ -239,14 +239,10 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a href="{{wiki}}/Previous_UDK2010_Releases" title="Previous UDK2010 Releases">UDK2010 Archive</a></p><hr/>
-      <p><a class="externallink" href="{{edk2files}}/" rel="nofollow" title="{{edk2files}}/">EDK II Project Files</a> </p>
+      <p><a href="{{wiki}}/Previous_UDK2010_Releases" title="Previous UDK2010 Releases">UDK2010 Archive</a></p>
     </td>
     <td>
-      <p>Menu for downloading Previous UDK2010 releases </p><hr/>
-      <p>SourceForge style explorer: 
-      Several files and packages are available on the EDK II project (Docs and Files, under &#34;UDK2010 Releases&#34;: UDK2010.UP3.P1, etc.)
-      Or for UDK2014_Releases Directory</p>
+      <p>Menu for downloading Previous UDK2010 releases </p>
     </td>
     <td></td>
   </tr>
