@@ -131,8 +131,8 @@ If you have questions please email the [edk2-devel] email list.
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/CryptoPkg%20Document.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/CryptoPkg%20Document.chm/download">CryptoPkg .chm </a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/CryptoPkg%20Document.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/CryptoPkg%20Document.zip/download">CryptoPkg .zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.chm" rel="nofollow" title="{{https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.chm">CryptoPkg .chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/CryptoPkg%20Document.zip">CryptoPkg .zip</a></p>
     </td>
     <td>
       <p>The <a href="{{wiki}}/CryptoPkg" title="CryptoPkg">CryptoPkg</a> Document Package Helper file. This Package provides cryptographic-related libraries for UEFI security modules.</p>
@@ -146,8 +146,8 @@ If you have questions please email the [edk2-devel] email list.
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkModulePkg%20Document.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkModulePkg%20Document.chm/download">IntelFrameworkModulePkg .chm</a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkModulePkg%20Document.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkModulePkg%20Document.zip/download">IntelFrameworkModulePkg .zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkModulePkg%20Document.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkModulePkg%20Document.chm">IntelFrameworkModulePkg .chm</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkModulePkg%20Document.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkModulePkg%20Document.zip">IntelFrameworkModulePkg .zip</a></p>
       <p></p>
     </td>
     <td>
@@ -159,8 +159,8 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkPkg%20Document.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkPkg%20Document.chm/download">IntelFrameworkPkg .chm </a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkPkg%20Document.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/IntelFrameworkPkg%20Document.zip/download">IntelFrameworkPkg .zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkPkg%20Document.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkPkg%20Document.chm">IntelFrameworkPkg .chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkPkg%20Document.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/IntelFrameworkPkg%20Document.zip">IntelFrameworkPkg .zip</a></p>
     
     </td>
     <td>
@@ -171,8 +171,8 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/MdeModulePkg%20Document.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/MdeModulePkg%20Document.chm/download">MdeModulePkg .chm </a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/MdeModulePkg%20Document.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/MdeModulePkg%20Document.zip/download">MdeModulePkg .zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdeModulePkg%20Document.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdeModulePkg%20Document.chm">MdeModulePkg .chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdeModulePkg%20Document.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdeModulePkg%20Document.zip">MdeModulePkg .zip</a></p>
       
     </td>
     <td>
@@ -185,11 +185,11 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document%20With%20Libraries.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document%20With%20Libraries.chm/download">MdePkg w/ Libraries .chm </a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document%20With%20Libraries.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document%20With%20Libraries.zip/download">MdePkg w/ Libraries .zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document%20With%20Libraries.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document%20With%20Libraries.chm">MdePkg w/ Libraries .chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document%20With%20Libraries.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document%20With%20Libraries.zip">MdePkg w/ Libraries .zip</a></p>
       
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document.chm/download">MdePkg .chm</a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/MdePkg%20Document.zip/download">MdePkg  .zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document.chm">MdePkg .chm</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/MdePkg%20Document.zip">MdePkg  .zip</a></p>
          </td>
     <td>
       <p>The <a href="{{wiki}}/MdePkg" title="MdePkg">MdePkg</a> Document Package Helper file. This Package provides all definitions(including functions, MACROs, structures and library classes)
@@ -202,8 +202,8 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/NetworkPkg%20Document%20With%20Modules.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/NetworkPkg%20Document%20With%20Modules.chm/download">NetworkPkg.chm </a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/NetworkPkg%20Document%20With%20Modules.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/NetworkPkg%20Document%20With%20Modules.zip/download">NetworkPkg.zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/NetworkPkg%20Document%20With%20Modules.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/NetworkPkg%20Document%20With%20Modules.chm">NetworkPkg.chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/NetworkPkg%20Document%20With%20Modules.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/NetworkPkg%20Document%20With%20Modules.zip">NetworkPkg.zip</a></p>
        </td>
     <td>
       <p>The <a href="{{wiki}}/NetworkPkg" title="NetworkPkg">NetworkPkg</a> Document Package Helper file. This package provides network modules that conform to UEFI 2.2 specification.</p>
@@ -213,8 +213,8 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/SecurityiPkg%20Document%20With%20Modules.chm/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/SecurityiPkg%20Document%20With%20Modules.chm/download">SecurityPkg.chm </a></p>
-      <p><a class="externallink" href="{{edk2files}}/EDK_II_Libraries/UDK2015/SecurityiPkg%20Document%20With%20Modules.zip/download" rel="nofollow" title="{{edk2files}}/EDK_II_Libraries/UDK2015/SecurityiPkg%20Document%20With%20Modules.zip/download">SecurityPkg.zip</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/SecurityiPkg%20Document%20With%20Modules.chm" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/SecurityiPkg%20Document%20With%20Modules.chm">SecurityPkg.chm </a></p>
+      <p><a class="externallink" href="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/SecurityiPkg%20Document%20With%20Modules.zip" rel="nofollow" title="https://github.com/tianocore-docs/Docs/raw/master/UDK/UDK2015/SecurityiPkg%20Document%20With%20Modules.zip">SecurityPkg.zip</a></p>
           </td>
     <td>
       <p>The <a href="{{wiki}}/SecurityPkg" title="SecurityPkg">SecurityPkg</a> Document Package Helper file. This package includes the security drivers, defintions(including PPIs/PROTOCOLs/GUIDs
