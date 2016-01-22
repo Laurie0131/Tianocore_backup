@@ -42,13 +42,10 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 							<p></span></td>
 						</tr>
 						<tr>
-							<td><br>
-							<span class="extlink">
-							<a class="external text" title="http://sourceforge.net/projects/edk2/files/Training/SpecIntro/Defining_Specifications_Role_in_Firmware.htm/download" rel="nofollow" href="http://sourceforge.net/projects/edk2/files/Training/SpecIntro/Defining_Specifications_Role_in_Firmware.htm/download">
-							Defining Specifications' Role in Firmware</a></span>
-							<p><br>
+							<td> _zip_file_**
 &nbsp;</td>
 							<td>
+							Title
 							<dl>
 								<dt>Course Objectives</dt>
 								<dd>When you complete the course, you will be 
@@ -96,10 +93,11 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 						</tr>
 						<tr>
 							<td>
-							<a class="external text" title="http://sourceforge.net/projects/edk2/files/Training/Lesson1/Lesson_1_PEI_and_Course_Intro.htm/download" rel="nofollow" href="http://sourceforge.net/projects/edk2/files/Training/Lesson1/Lesson_1_PEI_and_Course_Intro.htm/download">
-							<b>Lesson 1</b> - Course Introduction and Pre-EFI 
-							(PEI) and Security (SEC) Phases </a></td>
-							<td>When you complete this lesson, you will be able 
+							 _zip_file_**
+							</td>
+							<td>
+							Title<BR>
+							When you complete this lesson, you will be able 
 							to:
 							<ul>
 								<li>Access EDK II to assist you in in using 
@@ -124,10 +122,11 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 						</tr>
 						<tr>
 							<td>
-							<a class="external text" title="http://sourceforge.net/projects/edk2/files/Training/Lesson2/Lesson_2_DXE.htm/download" rel="nofollow" href="http://sourceforge.net/projects/edk2/files/Training/Lesson2/Lesson_2_DXE.htm/download">
-							<b>Lesson 2</b> - Driver Execution Environment (DXE)</a>
+							 _zip_file_**
 							</td>
-							<td>When you complete this lesson, you will be able 
+							<td>
+							Title<BR>
+							When you complete this lesson, you will be able 
 							to:
 							<ul>
 								<li>Summarize the DXE phase and its purpose, 
@@ -149,9 +148,11 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 						</tr>
 						<tr>
 							<td>
-							<a class="external text" title="http://sourceforge.net/projects/edk2/files/Training/Lesson3/Lesson_3_UEFI_Drivers.htm/download" rel="nofollow" href="http://sourceforge.net/projects/edk2/files/Training/Lesson3/Lesson_3_UEFI_Drivers.htm/download">
-							<b>Lesson 3</b> - UEFI Drivers</a> </td>
-							<td>When you complete this lesson, you will be able 
+							 _zip_file_**
+							</td>
+							<td>
+							Title<BR>
+							When you complete this lesson, you will be able 
 							to:
 							<ul>
 								<li>Summarize UEFI drivers’ attribute, 
@@ -171,9 +172,11 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 						</tr>
 						<tr>
 							<td>
-							<a class="external text" title="http://sourceforge.net/projects/edk2/files/Training/Lesson4/Lesson_4_Firmware_Storage.htm/download" rel="nofollow" href="http://sourceforge.net/projects/edk2/files/Training/Lesson4/Lesson_4_Firmware_Storage.htm/download">
-							<b>Lesson 4</b> - Firmware and Data Storage</a> </td>
-							<td>When you complete this lesson, you will be able 
+							 _zip_file_**
+							</td>
+							<td>
+							Title<BR>
+							When you complete this lesson, you will be able 
 							to:
 							<ul>
 								<li>Define Firmware Storage, Firmware Files, 
@@ -190,10 +193,11 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 						</tr>
 						<tr>
 							<td>
-							<a class="external text" title="http://sourceforge.net/projects/edk2/files/Training/Lesson5/Lesson_5_BDS_HII.htm/download" rel="nofollow" href="http://sourceforge.net/projects/edk2/files/Training/Lesson5/Lesson_5_BDS_HII.htm/download">
-							<b>Lesson 5</b> - Boot Device Selection (BDS) and 
-							Human Interface Infrastructure (HII)</a> </td>
-							<td>When you complete this lesson, you will be able 
+							 _zip_file_**
+							</td>
+							<td>
+							Lesson 5 Title<BR>
+							When you complete this lesson, you will be able 
 							to:
 							<ul>
 								<li>Explain the primary steps of the BDS Phase 
