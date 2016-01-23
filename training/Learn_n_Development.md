@@ -13,7 +13,7 @@ courtesy of Intel Corporation. </p>
 
 
 <p>To view the online courses, you'll need
-<a class="external text" title="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf" rel="nofollow" href="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf"> Adobe* Flash Player 10</a> or higher. (Also works with [<a href="http://www.adobe.com/products/flashplayer.html">Adobe Flash Player</a> 13) Before you begin a course, review the course objectives and intended audience to determine if the course is right for you. </p>
+<a class="external text" title="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf" rel="nofollow" href="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf"> Adobe* Flash Player 10</a> or higher. (Also works with [<a href="http://www.adobe.com/products/flashplayer.html">Adobe Flash Player 13</a>).  Before you begin a course, review the course objectives and intended audience to determine if the course is right for you. </p>
 <br>
 How to download: Download each lesson’s <b>Zip file**</b>  into your local directory.  Then unzip each one and run each of  the .htm files locally. The Flash Player is still required.
 <br>
@@ -47,11 +47,11 @@ Course Goal: Briefly explore the history and role of specifications in firmware
 
 </tr>
 </table>
-
+<br>
 <table width="100%">
 <tr>
     <th colspan="4" style="background-color:#a9c6dd">
-'''Initializing the Boot Process''' Lessons 1 - 5 </th>
+<b>Initializing the Boot Process</b> Lessons 1 - 5 </th>
 </tr>
 <tr>
 <td>
@@ -173,15 +173,15 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 
 </table>
 </div>
-
+<hr>
 <!-- COMMENT <MTMarkdownOptions output='html4'> -->
 <BR>
 <p>
-<span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 14pt; font-weight: bold">
+<span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 16pt; font-weight: bold">
 Training Course Detailed Descriptions</span> </p>
 <br>
 <div class="t_projects">
-	<table>
+<table>
 	<tr>
 							<td style="background-color: #004280" colSpan="2">
 <span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 14pt; font-weight: bold; margin-top: 0px; margin-bottom: 0px">
@@ -196,10 +196,11 @@ Training Course Detailed Descriptions</span> </p>
 							<p></span></td>
 						</tr>
 						<tr>
-							<td> _zip_file_**
+							<td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
 &nbsp;</td>
 							<td>
-							Title
+							<b>Defining Specifications' Role in Firmware</b> <Br>
 							<dl>
 								<dt>Course Objectives</dt>
 								<dd>When you complete the course, you will be 
@@ -219,10 +220,10 @@ Training Course Detailed Descriptions</span> </p>
 							</ul>
 							</td>
 						</tr>
-					</table>
+</table>
 					<br>
 
-					<table>
+<table>
 						<tr>
 							<td style="background-color: #0071c5" colSpan="2">
 <span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 14pt; font-weight: bold">
@@ -230,10 +231,8 @@ Training Course Detailed Descriptions</span> </p>
 							<p>
 <span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 10pt">
 							
-							<b>
-							Intended Audience:</b> Firmware/Software Engineers
-							<br>
-							Course Goal:</b> Initialize the boot process by 
+							<b>Intended Audience:</b> Firmware/Software Engineers 	<br>
+							<b>Course Goal:</b> Initialize the boot process by 
 							following the UEFI specifications </p>
 							</span></td>
 						</tr>
@@ -245,41 +244,45 @@ Training Course Detailed Descriptions</span> </p>
 							<span style="text-align: left; font-family: Verdana; color: white; font-size: 10pt">
 							Objectives </span></th>
 						</tr>
-						<tr>
-							<td>
-							 _zip_file_**
-							</td>
-							<td>
-							Title<BR>
-							When you complete this lesson, you will be able 
-							to:
-							<ul>
-								<li>Access EDK II to assist you in in using 
-								commercial compilers, providing for self-hosted 
-								development, and supplying libraries to assist 
-								in managing common tasks. </li>
-								<li>Use tools to assist you in Platform 
-								Initialization </li>
-								<li>Define and implement types of debugging 
-								allowed with EDK II </li>
-								<li>Identify the responsibilities of the 
-								Security phase </li>
-								<li>Define PEI and its purpose, functions, 
-								attributes, and components </li>
-								<li>Describe PEI’s relationship to memory </li>
-								<li>Explain HOBs, their purpose, and 
-								contribution to the PEI phase </li>
-								<li>Transition from the PEI phase to the DXE 
-								phase. </li>
+<tr>
+	<td>
+	 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson1/Lesson_1_PEI_and_Course_Intro.zip"> Zip File**</a>
+
+
+	</td>
+	<td>
+	<b> Lesson 1:Pre-EFI (PEI) and Security (SEC) Phases</b> <BR>
+	When you complete this lesson, you will be able 
+	to:
+	<ul>
+	<li>Access EDK II to assist you in in using 
+		commercial compilers, providing for self-hosted 
+		development, and supplying libraries to assist 
+		in managing common tasks. 
+	</li>
+	<li>Use tools to assist you in Platform 
+		Initialization </li>
+		<li>Define and implement types of debugging 
+		allowed with EDK II </li>
+		<li>Identify the responsibilities of the 
+		Security phase </li>
+		<li>Define PEI and its purpose, functions, 
+		attributes, and components </li>
+		<li>Describe PEI’s relationship to memory </li>
+		<li>Explain HOBs, their purpose, and 
+		contribution to the PEI phase </li>
+		<li>Transition from the PEI phase to the DXE 
+		phase. </li>
 							</ul>
 							</td>
 						</tr>
-						<tr>
-							<td>
-							 _zip_file_**
+<tr>
+	<td>
+							 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson2/Lesson_2_DXE.zip"> Zip File**</a>
+
 							</td>
 							<td>
-							Title<BR>
+							<b>Lesson 2: Driver Execution Environment (DXE)</b><BR>
 							When you complete this lesson, you will be able 
 							to:
 							<ul>
@@ -302,10 +305,11 @@ Training Course Detailed Descriptions</span> </p>
 						</tr>
 						<tr>
 							<td>
-							 _zip_file_**
+							<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson3/Lesson_3_Drivers.zip"> Zip File**</a>
+
 							</td>
 							<td>
-							Title<BR>
+							<b>Lesson 3: UEFI Drivers </b><BR>
 							When you complete this lesson, you will be able 
 							to:
 							<ul>
@@ -326,10 +330,11 @@ Training Course Detailed Descriptions</span> </p>
 						</tr>
 						<tr>
 							<td>
-							 _zip_file_**
+							 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson4/Lesson_4_Firmware.zip"> Zip File**</a>
+
 							</td>
 							<td>
-							Title<BR>
+							<b>Lesson 4: Firmware and Data Storage</b><BR>
 							When you complete this lesson, you will be able 
 							to:
 							<ul>
@@ -347,10 +352,11 @@ Training Course Detailed Descriptions</span> </p>
 						</tr>
 						<tr>
 							<td>
-							 _zip_file_**
+							 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson5/Lesson_5_BDS_HII.zip"> Zip File**</a>
+
 							</td>
 							<td>
-							Lesson 5 Title<BR>
+							<b>Lesson 5: Boot Device Selection (BDS) and Human Interface Infrastructure (HII)</b><BR>
 							When you complete this lesson, you will be able 
 							to:
 							<ul>
