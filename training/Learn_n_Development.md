@@ -18,7 +18,7 @@ courtesy of Intel Corporation. </p>
 How to download: Download each lesson’s <b>Zip file**</b>  into your local directory.  Then unzip each one and run each of  the .htm files locally. The Flash Player is still required.
 <br>
 <b>Courses</b>
-</MTMarkdownOptions>
+<!-- COMMENT </MTMarkdownOptions> -->
 <div class="t_projects">
 
 <table width="100%">
@@ -73,7 +73,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 
   <td>
 
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson1/Lesson_1_PEI_and_Course_Intro.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson1/Lesson_1_PEI_and_Course_Intro.zip"> Zip File**</a>
   <br>
  
   </td>
@@ -91,7 +91,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 
   <td>
  
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson2/Lesson_2_DXE.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson2/Lesson_2_DXE.zip"> Zip File**</a>
  
   </td>
 
@@ -108,7 +108,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 <tr>
 
   <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson3/Lesson_3_Drivers.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson3/Lesson_3_Drivers.zip"> Zip File**</a>
  
  
   </td>
@@ -125,7 +125,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 <tr>
 
   <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson4/Lesson_4_Firmware.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson4/Lesson_4_Firmware.zip"> Zip File**</a>
  
   </td>
 
@@ -141,7 +141,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 <tr>
 
   <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson5/Lesson_5_BDS_HII.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson5/Lesson_5_BDS_HII.zip"> Zip File**</a>
  
   </td>
 
@@ -174,7 +174,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 </table>
 </div>
 
-<MTMarkdownOptions output='html4'>
+<!-- COMMENT <MTMarkdownOptions output='html4'> -->
 <BR>
 <p>
 <span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 14pt; font-weight: bold">
