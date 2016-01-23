@@ -20,46 +20,16 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 <b>Courses</b>
 <!-- COMMENT </MTMarkdownOptions> -->
 <div class="t_projects">
-
-<table width="100%">
-<tr>
-    <th colspan="4" style="background-color:#a9c6dd">Defining Specifications' Role in Firmware</th>
-</tr>
-    <tr>
-        <th>Download</th>
-        <th>Description</th>
-    </tr>
-<tr></tr>
-
-<tr>
-
-  <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
-
-  </td>
-
-  <td>
-<b>Lesson 0: Defining Specifications' Role in Firmware</b><br>
-Intended Audience: Firmware/Software Engineers <br>
-Course Goal: Briefly explore the history and role of specifications in firmware 
-  </td>
-
-
-</tr>
-</table>
-<br>
 <table width="100%">
 <tr>
     <th colspan="4" style="background-color:#a9c6dd">
-<b>Initializing the Boot Process</b> Lessons 1 - 5 </th>
+<b>Defining Specifications' Role in Firmware And Initializing the Boot Process</b> Lessons 0 - 5 </th>
 </tr>
 <tr>
-<td>
-</td>
-<td>
-Intended Audience:Firmware/Software Engineers 
+<th colspan="4" style="background-color:#fed872">
+Intended Audience:Firmware/Software Engineers <br>
 Course Goal:Initialize the boot process by following the UEFI specifications
-</td>
+</th>
 </tr>    
 <tr>
         <th>Download</th>
@@ -67,7 +37,21 @@ Course Goal:Initialize the boot process by following the UEFI specifications
     </tr>
 <tr></tr>
 
+<!-- COMMENT  -->
+<tr>
 
+  <td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
+  </td>
+
+  <td>
+
+<b>Lesson 0: Introduction and Defining Specifications Role in Firmware </b>  <br>
+  
+  </td>
+
+
+</tr>
 <!-- COMMENT  -->
 <tr>
 
@@ -180,6 +164,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 <span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 16pt; font-weight: bold">
 Training Course Detailed Descriptions</span> </p>
 <br>
+<i> Below downloads are the same as above</i>
 <div class="t_projects">
 <table>
 	<tr>
@@ -200,7 +185,7 @@ Training Course Detailed Descriptions</span> </p>
 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
 &nbsp;</td>
 							<td>
-							<b>Defining Specifications' Role in Firmware</b> <Br>
+							<b>Lesson 0: Defining Specifications' Role in Firmware</b> <Br>
 							<dl>
 								<dt>Course Objectives</dt>
 								<dd>When you complete the course, you will be 
