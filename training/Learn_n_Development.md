@@ -13,22 +13,17 @@ courtesy of Intel Corporation. </p>
 
 
 <p>To view the online courses, you'll need
-<a class="external text" title="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf" rel="nofollow" href="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf"> Adobe* Flash Player 10</a> or higher. (Also works with [http://www.adobe.com/products/flashplayer.html Adobe Flash Player] 13) Before you begin a course, review the course objectives and intended audience to determine if the course is right for you. </p>
-				<p><br>
+<a class="external text" title="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf" rel="nofollow" href="https://github.com/tianocore-docs/Training/raw/master/Online/Flash_Instructions.pdf"> Adobe* Flash Player 10</a> or higher. (Also works with [<a href="http://www.adobe.com/products/flashplayer.html">Adobe Flash Player</a> 13) Before you begin a course, review the course objectives and intended audience to determine if the course is right for you. </p>
+<br>
 How to download: Download each lesson’s <b>Zip file**</b>  into your local directory.  Then unzip each one and run each of  the .htm files locally. The Flash Player is still required.
-
-&nbsp;</p>
-
-
-
+<br>
 				<p>
-				<span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 14pt; font-weight: bold">
-				Courses</span> </p>
-				<p><br>
-&nbsp;</p>
-				<div class="t_projects">
-					<table>
-						<tr>
+<span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 14pt; font-weight: bold">
+Training Course Detailed Descriptions</span> </p>
+<br>
+<div class="t_projects">
+	<table>
+	<tr>
 							<td style="background-color: #004280" colSpan="2">
 <span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 14pt; font-weight: bold; margin-top: 0px; margin-bottom: 0px">
 							Defining Specifications' Role in Firmware </span>
@@ -66,8 +61,8 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 							</td>
 						</tr>
 					</table>
-					<p><br>
-&nbsp;</p>
+					<br>
+
 					<table>
 						<tr>
 							<td style="background-color: #0071c5" colSpan="2">
