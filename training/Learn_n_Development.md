@@ -17,7 +17,166 @@ courtesy of Intel Corporation. </p>
 <br>
 How to download: Download each lesson’s <b>Zip file**</b>  into your local directory.  Then unzip each one and run each of  the .htm files locally. The Flash Player is still required.
 <br>
-				<p>
+<b>Courses</b>
+</MTMarkdownOptions>
+<div class="t_projects">
+
+<table width="100%">
+<tr>
+    <th colspan="4" style="background-color:#a9c6dd">Defining Specifications' Role in Firmware</th>
+</tr>
+    <tr>
+        <th>Download</th>
+        <th>Description</th>
+    </tr>
+<tr></tr>
+
+<tr>
+
+  <td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
+
+  </td>
+
+  <td>
+<b>Lesson 0: Defining Specifications' Role in Firmware</b><br>
+Intended Audience: Firmware/Software Engineers <br>
+Course Goal: Briefly explore the history and role of specifications in firmware 
+  </td>
+
+
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+    <th colspan="4" style="background-color:#a9c6dd">
+'''Initializing the Boot Process''' Lessons 1 - 5 </th>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+Intended Audience:Firmware/Software Engineers 
+Course Goal:Initialize the boot process by following the UEFI specifications
+</td>
+</tr>    
+<tr>
+        <th>Download</th>
+        <th>Description</th>
+    </tr>
+<tr></tr>
+
+
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson1/Lesson_1_PEI_and_Course_Intro.zip"> Zip File**</a>
+  <br>
+ 
+  </td>
+
+  <td>
+
+<b>Lesson 1: Course Introduction and Pre-EFI (PEI) and Security (SEC) Phases</b>  <br>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+ 
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson2/Lesson_2_DXE.zip"> Zip File**</a>
+ 
+  </td>
+
+  <td>
+  
+<b> Lesson 2: Driver Execution Environment (DXE)</b><br>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson3/Lesson_3_Drivers.zip"> Zip File**</a>
+ 
+ 
+  </td>
+
+  <td>
+  <b>Lesson 3: UEFI Drivers </b><br>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson4/Lesson_4_Firmware.zip"> Zip File**</a>
+ 
+  </td>
+
+  <td>
+  <b>Lesson 4: Firmware and Data Storage</b><br>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/Lesson5/Lesson_5_BDS_HII.zip"> Zip File**</a>
+ 
+  </td>
+
+  <td>
+  <b>Lesson 5: Boot Device Selection (BDS) and Human Interface Infrastructure (HII)</b><br>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+  <br>
+ 
+  </td>
+
+  <td>
+  <br>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<!-- COMMENT  -->
+
+</table>
+</div>
+
+<MTMarkdownOptions output='html4'>
+<BR>
+<p>
 <span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 14pt; font-weight: bold">
 Training Course Detailed Descriptions</span> </p>
 <br>
