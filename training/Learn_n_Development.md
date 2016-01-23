@@ -136,22 +136,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications
 
 
 </tr>
-<!-- COMMENT  -->
-<!-- COMMENT  -->
-<tr>
 
-  <td>
-  <br>
- 
-  </td>
-
-  <td>
-  <br>
-  
-  </td>
-
-
-</tr>
 <!-- COMMENT  -->
 <!-- COMMENT  -->
 
