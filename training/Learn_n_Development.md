@@ -174,10 +174,10 @@ Training Course Detailed Descriptions</span> </p>
 <div class="t_projects">
 <table>
 	<tr>
-							<td style="background-color: #004280" colSpan="2">
-<span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 14pt; font-weight: bold; margin-top: 0px; margin-bottom: 0px">
+							<td style="background-color: #a9c6dd" colSpan="2">
+<span style="text-align: left; font-style: normal; font-family: Verdana;  font-size: 14pt; font-weight: bold; margin-top: 0px; margin-bottom: 0px">
 							Defining Specifications' Role in Firmware </span>
-<span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 10pt; margin-top: 0px; margin-bottom: 0px">
+<span style="text-align: left; font-style: normal; font-family: Verdana;  font-size: 10pt; margin-top: 0px; margin-bottom: 0px">
 							<p style="margin-top: 0px; margin-bottom: 0px"><b>
 							Intended Audience:</b> Firmware/Software Engineers
 							</p>
@@ -227,9 +227,9 @@ Training Course Detailed Descriptions</span> </p>
 							following the UEFI specifications </p>
 							</span></td>
 						</tr>
-						<tr style="background-color: #fdbb13">
-							<th style="background-color: #fdbb13">
-							<span style="text-align: left; font-family: Verdana; color: white; font-size: 10pt">
+						<tr style="background-color: #fed872">
+							<th style="background-color: #fed872">
+							<span style="text-align: left; font-family: Verdana;  font-size: 10pt">
 							Lesson </span></th>
 							<th style="background-color: #fdbb13">
 							<span style="text-align: left; font-family: Verdana; color: white; font-size: 10pt">
