@@ -22,8 +22,8 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 <div class="t_projects">
 <table width="100%">
 <tr>
-    <th colspan="4" style="background-color:#a9c6dd"><font size="4">
-<b>Defining Specifications' Role in Firmware And Initializing the Boot Process</b> Lessons 0 - 5 </font></th>
+    <th colspan="4" style="background-color:#a9c6dd"><font size="5">
+<b>Defining Specifications' Role in Firmware And Initializing the Boot Process Lessons 0 - 5</b>  </font></th>
 </tr>
 <tr>
 <th colspan="4" style="background-color:#fed872">
