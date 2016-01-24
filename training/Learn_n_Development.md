@@ -216,11 +216,11 @@ Training Course Detailed Descriptions</span> </p>
 
 <table>
 						<tr>
-							<td style="background-color: #0071c5" colSpan="2">
-<span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 14pt; font-weight: bold">
+							<td style="background-color: #a9c6dd" colSpan="2">
+<span style="text-align: left; font-style: normal; font-family: Verdana;  font-size: 14pt; font-weight: bold">
 							Initializing the Boot Process </span>
 							<p>
-<span style="text-align: left; font-style: normal; font-family: Verdana; color: white; font-size: 10pt">
+<span style="text-align: left; font-style: normal; font-family: Verdana;  font-size: 10pt">
 							
 							<b>Intended Audience:</b> Firmware/Software Engineers 	<br>
 							<b>Course Goal:</b> Initialize the boot process by 
@@ -231,8 +231,8 @@ Training Course Detailed Descriptions</span> </p>
 							<th style="background-color: #fed872">
 							<span style="text-align: left; font-family: Verdana;  font-size: 10pt">
 							Lesson </span></th>
-							<th style="background-color: #fdbb13">
-							<span style="text-align: left; font-family: Verdana; color: white; font-size: 10pt">
+							<th style="background-color: #fed872">
+							<span style="text-align: left; font-family: Verdana;  font-size: 10pt">
 							Objectives </span></th>
 						</tr>
 <tr>
