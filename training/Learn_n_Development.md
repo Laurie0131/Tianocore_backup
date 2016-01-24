@@ -41,12 +41,16 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 <tr>
 
   <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> 
+<font size="2">Zip File** </font> </a>
   </td>
 
   <td>
 
-<b>Lesson 0: Introduction and Defining Specifications Role in Firmware </b>  <br>
+<b><font size="2">Lesson 0: Introduction and Defining Specifications Role in Firmware 
+</font> </b>  <font size="2">  <br>
+  
+  </font>
   
   </td>
 
@@ -57,14 +61,19 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 
   <td>
 
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson1/Lesson_1_PEI_and_Course_Intro.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson1/Lesson_1_PEI_and_Course_Intro.zip"> 
+<font size="2">Zip File**</font></a><font size="2">
   <br>
  
+  </font>
+ 
   </td>
 
   <td>
 
-<b>Lesson 1: Course Introduction and Pre-EFI (PEI) and Security (SEC) Phases</b>  <br>
+<b><font size="2">Lesson 1: Course Introduction and Pre-EFI (PEI) and Security (SEC) Phases</font></b><font size="2">  <br>
+  
+  </font>
   
   </td>
 
@@ -75,30 +84,16 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 
   <td>
  
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson2/Lesson_2_DXE.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson2/Lesson_2_DXE.zip"> 
+<font size="2">Zip File**</font></a><font size="2"> </font>
  
   </td>
 
   <td>
   
-<b> Lesson 2: Driver Execution Environment (DXE)</b><br>
+<b> <font size="2">Lesson 2: Driver Execution Environment (DXE)</font></b><font size="2"><br>
   
-  </td>
-
-
-</tr>
-<!-- COMMENT  -->
-<!-- COMMENT  -->
-<tr>
-
-  <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson3/Lesson_3_Drivers.zip"> Zip File**</a>
- 
- 
-  </td>
-
-  <td>
-  <b>Lesson 3: UEFI Drivers </b><br>
+  </font>
   
   </td>
 
@@ -109,12 +104,16 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 <tr>
 
   <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson4/Lesson_4_Firmware.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson3/Lesson_3_Drivers.zip"> 
+<font size="2">Zip File**</font></a><font size="2"> </font>
+ 
  
   </td>
 
   <td>
-  <b>Lesson 4: Firmware and Data Storage</b><br>
+  <b><font size="2">Lesson 3: UEFI Drivers </font> </b><font size="2"><br>
+  
+  </font>
   
   </td>
 
@@ -125,12 +124,34 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 <tr>
 
   <td>
-<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson5/Lesson_5_BDS_HII.zip"> Zip File**</a>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson4/Lesson_4_Firmware.zip"> 
+<font size="2">Zip File**</font></a><font size="2"> </font>
  
   </td>
 
   <td>
-  <b>Lesson 5: Boot Device Selection (BDS) and Human Interface Infrastructure (HII)</b><br>
+  <b><font size="2">Lesson 4: Firmware and Data Storage</font></b><font size="2"><br>
+  
+  </font>
+  
+  </td>
+
+
+</tr>
+<!-- COMMENT  -->
+<!-- COMMENT  -->
+<tr>
+
+  <td>
+<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson5/Lesson_5_BDS_HII.zip"> 
+<font size="2">Zip File**</font></a><font size="2"> </font>
+ 
+  </td>
+
+  <td>
+  <b><font size="2">Lesson 5: Boot Device Selection (BDS) and Human Interface Infrastructure (HII)</font></b><font size="2"><br>
+  
+  </font>
   
   </td>
 
