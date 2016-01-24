@@ -27,7 +27,7 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 </tr>
 <tr>
 <th colspan="4" style="background-color:#fed872">
-<font size="3">Intended Audience:Firmware/Software Engineers <br>
+<font size="2">Intended Audience:Firmware/Software Engineers <br>
 Course Goal:Initialize the boot process by following the UEFI specifications </font>
 </th>
 </tr>    
