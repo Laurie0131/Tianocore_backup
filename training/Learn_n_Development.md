@@ -18,6 +18,7 @@ courtesy of Intel Corporation. </p>
 How to download: Download each lesson’s <b>Zip file**</b>  into your local directory.  Then unzip each one and run each of  the .htm files locally. The Flash Player is still required.
 <br>
 <b>Courses</b>
+<BR>
 <!-- COMMENT </MTMarkdownOptions> -->
 <div class="t_projects">
 <table width="100%">
@@ -236,7 +237,7 @@ Training Course Detailed Descriptions</span> </p>
 							Objectives </span></th>
 						</tr>
 <tr>
-	<td>
+	<td>Lesson 1:
 	 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson1/Lesson_1_PEI_and_Course_Intro.zip"> Zip File**</a>
 
 
@@ -268,7 +269,7 @@ Training Course Detailed Descriptions</span> </p>
 							</td>
 						</tr>
 <tr>
-	<td>
+	<td>Lesson 2: 
 							 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson2/Lesson_2_DXE.zip"> Zip File**</a>
 
 							</td>
@@ -295,7 +296,7 @@ Training Course Detailed Descriptions</span> </p>
 							</td>
 						</tr>
 						<tr>
-							<td>
+							<td>Lesson 3:
 							<a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson3/Lesson_3_Drivers.zip"> Zip File**</a>
 
 							</td>
@@ -320,7 +321,7 @@ Training Course Detailed Descriptions</span> </p>
 							</td>
 						</tr>
 						<tr>
-							<td>
+							<td>Lesson 4:
 							 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson4/Lesson_4_Firmware.zip"> Zip File**</a>
 
 							</td>
@@ -342,7 +343,7 @@ Training Course Detailed Descriptions</span> </p>
 							</td>
 						</tr>
 						<tr>
-							<td>
+							<td>Lesson 5:
 							 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/lesson5/Lesson_5_BDS_HII.zip"> Zip File**</a>
 
 							</td>
