@@ -4,6 +4,8 @@ title: Training
 ---
 {% include site-links.md %}
 
+
+* Site  <a  href="{{baseurl}}/udk/udk2015/">UDK2015</a>
 * [UEFI and EDK II
   Learning and Development]({{wiki}}/UEFI EDKII Learning Dev)
   * These online courses are provided to
