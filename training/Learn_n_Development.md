@@ -20,7 +20,9 @@ How to download: Download each lesson’s <b>Zip file**</b>  into your local dir
 <br>
 <p>
 <span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 16pt; font-weight: bold">
-<b>Courses</b> </span> </p>
+<b>Courses</b> <br>
+<i> (short description) </i>
+</span> </p>
 
 <BR>
 <!-- COMMENT </MTMarkdownOptions> -->
