@@ -52,7 +52,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 
   <td>
 
-<b><font size="2">Lesson 0: Introduction and Defining Specifications Role in Firmware 
+<b><font size="2">Lesson 0: Introduction and Defining Specifications Role in Firmware - Overview
 </font> </b>  <font size="2">  <br>
   
   </font>
@@ -76,7 +76,7 @@ Course Goal:Initialize the boot process by following the UEFI specifications </f
 
   <td>
 
-<b><font size="2">Lesson 1: Course Introduction and Pre-EFI (PEI) and Security (SEC) Phases</font></b><font size="2">  <br>
+<b><font size="2">Lesson 1: Pre-EFI (PEI) and Security (SEC) Phases</font></b><font size="2">  <br>
   
   </font>
   
