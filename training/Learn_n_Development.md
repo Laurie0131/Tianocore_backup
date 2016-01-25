@@ -187,8 +187,16 @@ Training Course Detailed Descriptions</span> </p>
 							role of specifications in firmware </p>
 							<p></span></td>
 						</tr>
+						<tr style="background-color: #fed872">
+							<th style="background-color: #fed872">
+							<span style="text-align: left; font-family: Verdana;  font-size: 10pt">
+							Lesson </span></th>
+							<th style="background-color: #fed872">
+							<span style="text-align: left; font-family: Verdana;  font-size: 10pt">
+							Objectives </span></th>
+						</tr>
 						<tr>
-							<td>
+							<td>Lesson 0:
 <a href="https://github.com/tianocore-docs/Training/raw/master/Online/intro/Defining_Specifications_Role_in_Firmware.zip"> Zip File** </a>
 &nbsp;</td>
 							<td>
