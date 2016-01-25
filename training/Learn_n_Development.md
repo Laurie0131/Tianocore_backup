@@ -17,7 +17,11 @@ courtesy of Intel Corporation. </p>
 <br>
 How to download: Download each lesson’s <b>Zip file**</b>  into your local directory.  Then unzip each one and run each of  the .htm files locally. The Flash Player is still required.
 <br>
-<b>Courses</b>
+<br>
+<p>
+<span style="text-align: center; font-style: normal; font-family: Verdana; color: #004280; font-size: 16pt; font-weight: bold">
+<b>Courses</b> </span> </p>
+
 <BR>
 <!-- COMMENT </MTMarkdownOptions> -->
 <div class="t_projects">
