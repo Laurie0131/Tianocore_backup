@@ -5,7 +5,7 @@ title: EDK II Documents
 {% include site-links.md %}
 
 <MTMarkdownOptions output='html4'>
-<font color="#7766FF" size="4">
+<font color="#776688" size="4">
 EDK II Documents
 </font>
 </MTMarkdownOptions>
