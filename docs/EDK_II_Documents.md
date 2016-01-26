@@ -13,6 +13,6 @@ EDK II Documents
 * [EDK II Specifications]({{wiki}}/EDK II Specifications) <BR>
 * [EDK II User Documentation]({{wiki}}/EDK II User Documentation)<BR>
 * [EDK II Libraries and Helper files]({{wiki}}/EDK II Libraries and Helper files)<BR>
-* [EDK II white papers]({{wiki}}/EDK II white papers)<BR>
+* [EDK II White papers]({{wiki}}/EDK II White papers)<BR>
 * [EDK II Driver Developer Page]({{wiki}}/Driver-Developer)<BR>
 
