@@ -10,11 +10,11 @@ EDK II Documents
 </font>
 </MTMarkdownOptions>
 
-*[[EDK II Specifications]]
-*[[EDK II User Documentation]]
-*[[EDK II Libraries and Helper files]]
-*[[EDK II white papers]]
-*[[Driver-Developer| EDK II Driver Developer Page]]
+*[[EDK II Specifications]({{wiki}}/EDK II Specifications)
+*[EDK II User Documentation]({{wiki}}/EDK II User Documentation)
+*[EDK II Libraries and Helper files]({{wiki}}/EDK II Libraries and Helper files)
+*[EDK II white papers]({{wiki}}/EDK II white papers)
+*[EDK II Driver Developer Page]({{wiki}}/Driver-Developer)
 
 
 
