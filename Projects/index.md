@@ -4,7 +4,11 @@ title: Additional Projects
 ---
 {% include site-links.md %}
 
-EDK II
+<MTMarkdownOptions output='html4'>
+<font color="#0066FF" size="5">
+EDK II Projects
+</font>
+</MTMarkdownOptions>
 
 <HR>
 
@@ -38,18 +42,30 @@ Community: email {[edk2-devel](https://github.com/tianocore/tianocore.github.io/
 
 Stable releases: [UDK2010](https://github.com/tianocore/tianocore.github.io/wiki/UDK2010 "UEFI Development Kit 2010"), [UDK2014](http://www.tianocore.org/udk2014/ "UEFI Development Kit 2014"), [UDK2015]({{baseurl}}/udk/udk2015/ "UEFI Development Kit 2015")
 
-### Other Projects (Non EDK II Projects)
-[Additional-Projects-other]({{wiki}}/Additional-Projects-other)
 
-### Important Information
+<MTMarkdownOptions output='html4'>
+<font color="#0066FF" size="4">
+Other Projects (Non EDK II Projects)
+</font>
+</MTMarkdownOptions>
+* [Additional-Projects-other]({{wiki}}/Additional-Projects-other)
 
+<MTMarkdownOptions output='html4'>
+<font color="#0066FF" size="4">
+Important Information
+</font>
+</MTMarkdownOptions>
 -   [Getting Started for Developers](https://github.com/tianocore/tianocore.github.io/wiki/Getting_Started_with_EDK_II)
 -   [Packages](https://github.com/tianocore/tianocore.github.io/wiki/EDKII_Packages)
 -   [Open Tasks](https://github.com/tianocore/tianocore.github.io/wiki/Tasks)
 -   [Code Style](https://github.com/tianocore/tianocore.github.io/wiki/Code_Style)
 -   [EDK II Documents](https://github.com/tianocore/tianocore.github.io/wiki/EDK_II_Documents)
 
-### Related Information
+<MTMarkdownOptions output='html4'>
+<font color="#0066FF" size="4">
+Related Information
+</font>
+</MTMarkdownOptions>
 
 -   [Start using UEFI](https://github.com/tianocore/tianocore.github.io/wiki/Start_using_UEFI)
 -   [Overview](https://github.com/tianocore/tianocore.github.io/wiki/EDK_II_Overview)
