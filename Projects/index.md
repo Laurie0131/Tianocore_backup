@@ -2,7 +2,7 @@
 layout: default
 title: Additional Projects
 ---
-
+{% include site-links.md %}
 
 EDK II
 ======
