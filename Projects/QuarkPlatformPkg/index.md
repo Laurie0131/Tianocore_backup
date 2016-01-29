@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UDK2015
+title: EDK II firmware for Intel(R) Quark SoC X1000 based platforms
 ---
 
 {% include site-links.md %}
