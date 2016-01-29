@@ -6,25 +6,23 @@ title: Additional Projects
 
 EDK II
 
-======
+<HR>
+
 A modern, feature-rich, cross-platform firmware development environment for the [UEFI](http://uefi.org) and PI specifications. Click for a list of <a href="{{baseurl}}/docs/EDK_II_Documents.html">EDK II Documents</a>   and [EDK II Specifications]({{wiki}}/EDK II Specifications)
 
 
-* [UDK2015]({{baseurl}}/udk/udk2015) is a stable release of portions of our [EDK II]({{baseurl}}/edk2) project.
-* <a href="{{baseurl}}/udk/udk2015" title="UDK2015">UDK2015</a> is a stable release of portions of our <a href="{{baseurl}}/edk2" title="EDK II"> EDK II</a>  project. 
+* [UDK2015]({{baseurl}}/udk/udk2015/ "UEFI Development Kit 2015") is a stable release of portions of our [EDK II]({{baseurl}}/edk2) project.
 * [edk2-buildtools]({{wiki}}/edk2-buildtools) is the primary set of tools for processing EDK II content. 
 * [OVMF]({{baseurl}}/ovmf/) is a project to enable UEFI support for Virtual Machines.
 * [Shellpkg]({{wiki}}/Shellpkg) UEFI Shell is a project to create a UEFI 2.0 Shell implementation.
-* [[EDK II Application Development Kit (EADK)]({{wiki}}/EDKII-EADK) includes Standard C Libraries in UEFI Shell Applications (EFI_Toolkit replacement)
+* [EDK II Application Development Kit (EADK)]({{wiki}}/EDKII-EADK) includes Standard C Libraries in UEFI Shell Applications (EFI_Toolkit replacement)
 * [UEFI Driver Developer Resources with EDK II]({{wiki}}/Driver-Developer) Support UEFI driver development by independent hardware vendors (IHV), including the UEFI Driver Wizard and UEFI Driver Writers Guide (DWG).
 * [Beagle Board]({{wiki}}/Beagle Board Wiki) is a low cost highly capable single board computer.
-* [[edk2-fat-driver]] ({{wiki}}/ is a driver for the FAT12/16/32 filesystems.
+* [edk2-fat-driver]({{wiki}}/edk2-fat-driver) is a driver for the FAT12/16/32 filesystems.
 * [gcc-shell]({{wiki}}/gcc-shell) is a port of the older EFI shell to add GCC build support and ARM processor support.
-* [EDKII Packages]({{wiki}}/EDKII Packages)- List of EDK II based packages
 * [GSOC2011]({{wiki}}/GSOC2011) is our Google Summer of Code 2011 project
-* [EDK2Share]({{wiki}}/EDK2Share) A sharing location
 * Some open [Tasks]({{wiki}}/Tasks) suggested by our EDK II community
-* [Security Package]({{wiki}}/SecurityPkg)EDK II Security Package and other news on Security 
+* [Security Package]({{wiki}}/SecurityPkg) EDK II Security Package and other news on Security 
 * [MinnowBoard]({{wiki}}/MinnowBoard) open community project with UEFI Developed firmware. 
 * [MinnowBoardMax]({{wiki}}/MinnowBoardMax) open community project with UEFI Developed firmware. 
 * [Coreboot_UEFI_payload]({{wiki}}/Coreboot_UEFI_payload) open community project for Coreboot Payload Package.
@@ -38,7 +36,7 @@ Source repositories: git {[github](https://github.com/tianocore/edk2), [bitbucke
 Community: email {[edk2-devel](https://github.com/tianocore/tianocore.github.io/wiki/Edk2-devel)}, irc {\#edk2 on [www.oftc.net](http://www.oftc.net/), [setup](http://www.oftc.net/NickServ/CertFP/), [web client](http://webchat.oftc.net/?channels=edk2)}
 
 
-Stable releases: [UDK2010](https://github.com/tianocore/tianocore.github.io/wiki/UDK2010 "UEFI Development Kit 2010"), [UDK2014](http://www.tianocore.org/udk2014/ "UEFI Development Kit 2014"), [UDK2015]({{baseurl}}/udk/udk2015) "UEFI Development Kit 2015"
+Stable releases: [UDK2010](https://github.com/tianocore/tianocore.github.io/wiki/UDK2010 "UEFI Development Kit 2010"), [UDK2014](http://www.tianocore.org/udk2014/ "UEFI Development Kit 2014"), [UDK2015]({{baseurl}}/udk/udk2015/ "UEFI Development Kit 2015")
 
 ### Other Projects (Non EDK II Projects)
 [Additional-Projects-other]({{wiki}}/Additional-Projects-other)
