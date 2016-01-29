@@ -9,13 +9,9 @@ EDK II
 A modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications. Click for a list of <a href="{{baseurl}}/docs/EDK_II_Documents.html">EDK II Documents</a>   and [EDK II Specifications]({{wiki}}/EDK II Specifications)
 
 
-* <a href="{{baseurl}}/udk/udk2015" title="UDK2015">UDK2015</a> is a stable release of portions of our 
-<a href="{{baseurl}}/edk2" title="EDK II"> EDK II</a>  project. <BR>
-* [UDK2015] (http://www.tianocore.org/udk/udk2015)  is a stable release of portions of our [EDK II](http://www.tianocore.org/edk2/) project.
-
-
+* <a href="{{baseurl}}/udk/udk2015" title="UDK2015">UDK2015</a> is a stable release of portions of our <a href="{{baseurl}}/edk2" title="EDK II"> EDK II</a>  project. 
 * [edk2-buildtools]({{wiki}}/edk2-buildtools) is the primary set of tools for processing EDK II content. 
-* [OVMF](http://www.tianocore.org/ovmf/) is a project to enable UEFI support for Virtual Machines.
+* [OVMF]({{baseurl}}/ovmf/) is a project to enable UEFI support for Virtual Machines.
 * [[Shellpkg]] UEFI Shell is a project to create a UEFI 2.0 Shell implementation.
 * [[EDK II Application Development Kit (EADK)|EDKII-EADK]] includes Standard C Libraries in UEFI Shell Applications (EFI_Toolkit replacement)
 * [[UEFI Driver Developer Resources with EDK II|Driver-Developer]] Support UEFI driver development by independent hardware vendors (IHV), including the UEFI Driver Wizard and UEFI Driver Writers Guide (DWG).
