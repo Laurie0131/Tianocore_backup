@@ -13,4 +13,6 @@ title: Training
 
 * Request for training material: [Material
   Request](mailto:laurie0131@users.sourceforge.net?Subject=UEFI%20Training%20Material&body=UEFI%20Training%20Material)
+  <img src="{{baseurl}}/images/LaurieEmail.JPG>
+
 
