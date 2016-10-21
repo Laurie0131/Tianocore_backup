@@ -13,23 +13,24 @@ title: Training
 
 * Request for training material: [Material
   Request](mailto:laurie0131@users.sourceforge.net?Subject=UEFI%20Training%20Material&body=UEFI%20Training%20Material)
+
 email is <img src="{{baseurl}}/images/LaurieEmail.JPG"> 
- 
- 
- <script language="Javascript" type="text/javascript">
+
+<MTMarkdownOptions output='html4'>
+<script language="Javascript" type="text/javascript">
   <!-- // hide from old browsers
   
   //variables
   var us = "la"; 
   var er = "ur"
- var fst = "ie."
- var last1 = "jar"
- var last2 = "lstrom"
- var dom1 = "in"; 
+  var fst = "ie."
+  var last1 = "jar"
+  var last2 = "lstrom"
+  var dom1 = "in"; 
   var dom2 = "tel."; 
   var dom3 = "com"; 
  
- var subject = "From%20UEFI%20Training%20Material"; 
+  var subject = "From%20UEFI%20Training%20Material"; 
   var bodytext = ""; 
   
   //output
@@ -38,6 +39,6 @@ email is <img src="{{baseurl}}/images/LaurieEmail.JPG">
   
 
   // -->
- </script>
-
+</script>
+</MTMarkdownOptions>
 email is <img src="{{baseurl}}/images/LaurieEmail.JPG"> 
