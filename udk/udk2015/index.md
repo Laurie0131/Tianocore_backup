@@ -239,7 +239,7 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a href="{{wiki}}/Previous_UDK2010_Releases" title="Previous UDK2010 Releases">UDK2010 Archive</a></p>
+      <p><a href="{{wiki}}/Previous-UDK2010-Releases" title="Previous UDK2010 Releases">UDK2010 Archive</a></p>
     </td>
     <td>
       <p>Menu for downloading Previous UDK2010 releases </p>
