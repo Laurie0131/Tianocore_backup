@@ -448,12 +448,4 @@ EDK II More info:
 
 UEFI Developers Kit 2015 (UDK2015).  The UDK2015 is the EDKII support for all currently published <a class="externallink" href="http://www.uefi.org" rel="nofollow" title="http://www.uefi.org">UEFI specifications</a> UDK2015 currently supports UEFI 2.5 and PI 1.4 level of specifications.
 
-For quick reference, here are the links to the latest packages:
-
-* <a class="externallink" href="{{edk2files}}/EDK%20II%20Releases/UEFI_Packing_Tool/Intel_UEFI_Packing_Tool.zip/download" rel="nofollow" title="{{edk2files}}/EDK%20II%20Releases/UEFI_Packing_Tool/Intel_UEFI_Packing_Tool.zip/download">UEFI Packing Tool</a>
-
-* <a class="externallink" href="{{edk2files}}/EDK%20II%20Releases/EDK%20II%20Shell/EDKII_UEFI_Shell_2.0_ShellPkg_Rel_1.0.zip/download" rel="nofollow" title="{{edk2files}}/EDK%20II%20Releases/EDK%20II%20Shell/EDKII_UEFI_Shell_2.0_ShellPkg_Rel_1.0.zip/download">UEFI Shell 2.0 Spec package Sources</a>
-
-* <a class="externallink" href="{{edk2files}}/UDK2010%20Releases/UDK2010.UP2/EDKII_UserManual_0_7.pdf/download" rel="nofollow" title="{{edk2files}}/UDK2010%20Releases/UDK2010.UP2/EDKII_UserManual_0_7.pdf/download">EDKII User Manual</a>
-
-* The Intel(R) UDK Debugger Tool and its detailed user manual may be obtained from <a class="externallink" href="http://firmware.intel.com" rel="nofollow" title="http://firmware.intel.com">http://firmware.intel.com</a>
+The Intel(R) UDK Debugger Tool and its detailed user manual may be obtained from <a class="externallink" href="http://firmware.intel.com" rel="nofollow" title="http://firmware.intel.com">http://firmware.intel.com</a>
