@@ -9,7 +9,7 @@ UDK2015 is a stable release of portions of the [EDK II] project.
 <br>
 Link for  Previous UDK2014 releases <a href="{{baseurl}}/udk2014/Archive/">UDK2014 Archive</a>  
 
-If you have questions please email the [edk2-devel] email list.
+If you have questions please email the  <a href="{{wiki}}/edk2-devel" title="edk2-devel">edk2-devel</a> email list.
 
 
 
@@ -57,7 +57,7 @@ If you have questions please email the [edk2-devel] email list.
       <p><b>Supported OS and Build Environments</b></p>
 
       <ul>
-        <li><a href="{{wiki}}/Using_EDK_II_with_Native_GCC" title="Using EDK II with Native GCC">Using newer versions of Linux</a> with Native GCC 4.x </li>
+        <li><a href="{{wiki}}/Using-EDK-II-with-Native-GCC" title="Using EDK II with Native GCC">Using newer versions of Linux</a> with Native GCC 4.x </li>
         <li><a href="{{wiki}}/Windows-systems" title="Windows systems">Windows systems</a></li>
         <li><a href="{{wiki}}/Xcode" title="Xcode">Xcode Mac OS X</a></li>
         <li><a href="{{wiki}}/Unix-like_systems" title="Unix-like systems">Unix-like systems</a> (For older Linux distributions, or using Cygwin or Mac OS X)</li></ul>
