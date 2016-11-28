@@ -662,7 +662,7 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a href="{{wiki}}/UDK2010-Releases" title="UDK2010 Releases">UDK2010 Releases</a> archive</p>
+      <p><a href="{{wiki}}/UDK2010-Releases" title="UDK2010-Releases">UDK2010 Releases</a> archive</p>
       
     </td>
     <td>
