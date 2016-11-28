@@ -7,7 +7,7 @@ This Page contains previous releases of the UDK2014 <br>
 <br>
 See <a href="{{baseurl}}/udk/udk2015/">UDK2015</a>  for the current  Releases
 <br>
-Link for [UDK2010 Releases]({{wiki}}/UDK2010-Releases) - Archive
+Link for <a href="{{wiki}}/UDK2010-Releases" title="UDK2010 Releases">UDK2010 Releases</a> archive
 
 If you have questions please email the [edk2-devel] email list.
 
@@ -662,7 +662,7 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a href="{{wiki}}/UDK2010_Releases" title="UDK2010 Releases">UDK2010 Releases</a> archive</p>
+      <p><a href="{{wiki}}/UDK2010-Releases" title="UDK2010 Releases">UDK2010 Releases</a> archive</p>
       
     </td>
     <td>
