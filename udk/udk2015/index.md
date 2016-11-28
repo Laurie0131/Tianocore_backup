@@ -7,7 +7,7 @@ title: UDK2015
 
 UDK2015 is a stable release of portions of the [EDK II] project.
 <br>
-Link for  UDK2014 previous releases <a href="{{baseurl}}/udk2014/Archive/">UDK2014 Archive</a>  
+Link for  UDK2014 previous releases <a href="{{wiki}}/udk2014-Releases">UDK2014 releases -Archive</a>  
 
 If you have questions please email the  <a href="{{wiki}}/edk2-devel" title="edk2-devel">edk2-devel</a> email list.
 
@@ -232,7 +232,9 @@ which follows Intel EFI Framework Specification.</p>
   </tr>
 
   <tr>
-    <td> <a href="{{baseurl}}/udk2014/Archive/">UDK2014 Archive</a>  </td>
+    <td> 
+      <p><a href="{{wiki}}/UDK2014-Releases" title="UDK2014 Releases">UDK2014 Archive</a></p>
+     </td>
     <td> <p>Menu for downloading Previous UDK2014 releases </p></td>
     <td> <p>N/A </p></td>
   </tr>
