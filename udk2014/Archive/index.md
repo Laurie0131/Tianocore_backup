@@ -7,7 +7,7 @@ This Page contains previous releases of the UDK2014 <br>
 <br>
 See <a href="{{baseurl}}/udk/udk2015/">UDK2015</a>  for the current  Releases
 <br>
-Link for [UDK2010 Releases]({{wiki}}UDK2010-Releases) - Archive
+Link for [UDK2010 Releases]({{wiki}}/UDK2010-Releases) - Archive
 
 If you have questions please email the [edk2-devel] email list.
 
