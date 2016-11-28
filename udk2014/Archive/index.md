@@ -7,7 +7,7 @@ This Page contains previous releases of the UDK2014 <br>
 <br>
 See <a href="{{baseurl}}/udk/udk2015/">UDK2015</a>  for the current  Releases
 <br>
-Link for [Previous UDK2010 Releases]({{wiki}}/Previous-UDK2010-Releases) 
+Link for [UDK2010 Releases]({{wiki}}UDK2010-Releases) - Archive
 
 If you have questions please email the [edk2-devel] email list.
 
@@ -662,14 +662,11 @@ which follows Intel EFI Framework Specification.</p>
 
   <tr>
     <td>
-      <p><a href="{{wiki}}/Previous_UDK2010_Releases" title="Previous UDK2010 Releases">Previous UDK2010 Releases</a></p><hr/>
-      <p><a class="externallink" href="{{edk2files}}/" rel="nofollow" title="{{edk2files}}/">EDK II Project Files</a> </p>
+      <p><a href="{{wiki}}/UDK2010_Releases" title="UDK2010 Releases">UDK2010 Releases</a> archive</p>
+      
     </td>
     <td>
-      <p>Menu for downloading Previous UDK2010 releases </p><hr/>
-      <p>SourceForge style explorer: 
-      Several files and packages are available on the EDK II project (Docs and Files, under &#34;UDK2010 Releases&#34;: UDK2010.UP3.P1, etc.)
-      Or for UDK2014_Releases Directory</p>
+      <p>Menu for downloading Previous UDK2010 releases </p>
     </td>
     <td></td>
   </tr>
