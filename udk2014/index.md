@@ -5,7 +5,7 @@ redirect_from: "/udk2014.html"
 ---
 {% include site-links.md %}
 
-UDK2014 is a stable release of portions of the [EDK II] project.
+UDK2014 is a stable release of portions of the [[EDK II]] project.
 <br>
 
 Link for current UDK releases <a href="{{baseurl}}/udk/udk2015/">UDK2015</a>  
@@ -16,5 +16,5 @@ Link for Previous UDK2010 releases <a href="{{wiki}}/UDK2010-Releases" title="UD
 
  
 
-If you have questions please email the [edk2-devel] email list.
+If you have questions please email the [[edk2-devel]] email list.
 
